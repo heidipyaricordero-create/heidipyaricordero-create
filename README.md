@@ -29,6 +29,7 @@ Ich befinde mich aktuell in der Ausbildung zum **QA-Engineer** an der **Mastersc
 ![Bug Reporting](https://img.shields.io/badge/QA-Bug_Reporting-red?style=flat-square&logo=jira)
 ![Test Automation](https://img.shields.io/badge/Automation-Selenium-yellow?style=flat-square&logo=selenium)
 ![Quality Assurance](https://img.shields.io/badge/Focus-Quality_Assurance-brightgreen?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-API_Testing-orange?style=flat-square&logo=postman)
 
 **Datenbanken:**
 ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
