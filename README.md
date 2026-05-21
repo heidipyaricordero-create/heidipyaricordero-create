@@ -1,5 +1,6 @@
 <p align="center">
-<img width="1400" height="350" alt="bannerqa" src="https://github.com/user-attachments/assets/692622bc-e592-48e2-839a-653234c758b9" />
+<img width="2560" height="1440" alt="QA- Engeneering" src="https://github.com/user-attachments/assets/e38fd150-449f-4555-961c-ba721a65c847" />
+
 
 
 </p>
