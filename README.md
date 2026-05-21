@@ -1,5 +1,6 @@
 <p align="center">
-<img width="1200" height="300" alt="Heidi Pyari Cordero (1200 x 300 px)" src="https://github.com/user-attachments/assets/e4fac098-5ef7-4d08-9d4c-cb543447815b" />
+<img width="1400" height="350" alt="bannerqa" src="https://github.com/user-attachments/assets/692622bc-e592-48e2-839a-653234c758b9" />
+
 
 </p>
 
