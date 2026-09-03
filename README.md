@@ -1,22 +1,27 @@
 <p align="center">
-<img width="2560" height="1440" alt="QA- Engeneering" src="https://github.com/user-attachments/assets/e38fd150-449f-4555-961c-ba721a65c847" />
-
-
-
-</p>
-
+  <img width="2560" height="1440" alt="QA-Engineering" src="https://github.com/user-attachments/assets/e38fd150-449f-4555-961c-ba721a65c847" />
 </p>
 
 # Hallo, ich bin Heidi! 👋
 
-## Angehender QA-Engineer & Test-Automatisierer
-Ich befinde mich aktuell in der Ausbildung zum **QA-Engineer** an der **Masterschool Berlin** (Voraussichtlicher Abschluss: Mai 2026). Mein Fokus liegt darauf, Software durch automatisierte Tests robuster und zuverlässiger zu machen.
+## QA-Engineer & Software Tester
+Ich bin ausgebildete **QA-Ingenieurin** (Masterschool Berlin) mit praktischer Erfahrung im Bereich Blackbox-Testing, UI/UX-Reporting und Data Analytics. Mein Fokus liegt darauf, Software durch strukturierte Testverfahren und automatisierte Prozesse robuster und zuverlässiger zu machen.
 
 ---
 
 ### 🌐 Portfolio & Kontakt
 [![Portfolio](https://img.shields.io/badge/Mein_Portfolio-Besuchen-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white)](https://heidipyaricordero.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Heidi_Pyari_Cordero-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heidi-pyari-cordero-824572270/)
+
+---
+
+### 💼 Berufserfahrung
+
+#### 🧪 **Software Testing & Data Solutions Intern** | AgriCom (Huggin Munin LTD)
+*Juli 2026 – September 2026 | Ballymount, Co. Kildare, Irland*
+- 🔍 **Quality Assurance & Testing:** Konzeption und Durchführung strukturierter **Blackbox-Tests** zur Sicherstellung der Funktionalität und Systemstabilität einer KI-gestützten Agrar- & Logistikplattform.
+- 📊 **Reporting & UI/UX:** Visualisierung und Design datengetriebener **Report-Schnittstellen** und Dashboards für B2B-Kunden vom Erzeuger bis zum Großhandel.
+- 💻 **Software Development:** Unterstützung des Entwicklerteams durch Implementierung kleinerer Code-Anpassungen sowie datengestützte Markt- und Schnittstellenanalysen.
 
 ---
 
@@ -38,7 +43,7 @@ Ich befinde mich aktuell in der Ausbildung zum **QA-Engineer** an der **Mastersc
 
 ---
 
-### Bildungsweg & Meilensteine
+### Bildungsweg & Zertifizierungen
 
 ![ISTQB](https://img.shields.io/badge/ISTQB-In_Preparation-orange?style=for-the-badge&logo=istqb)
 - 🏫 **Masterschool Berlin** | Ausbildung zum QA-Engineer (2025 - Mai 2026)
@@ -47,8 +52,6 @@ Ich befinde mich aktuell in der Ausbildung zum **QA-Engineer** an der **Mastersc
 
 ---
 
-
 *"Quality is not an act, it is a habit."*
----
-<p align="right">(<a href="#top">nach oben scrollen ↑</a>)</p>
 
+<p align="right">(<a href="#top">nach oben scrollen ↑</a>)</p>
